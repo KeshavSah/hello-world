@@ -1,4 +1,4 @@
-### HTML Learning.
+## HTML Learning
 
 - 🌱 Currently learning HTML
 - 💻 Practicing HTML fundamentals
