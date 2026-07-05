@@ -1,1 +1,5 @@
-*** I am learning HTML too.💾
+### HTML Learning.
+
+- 🌱 Currently learning HTML
+- 💻 Practicing HTML fundamentals
+- 🚀 Building small projects to improve my skills
